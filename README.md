@@ -1,6 +1,6 @@
 # Data Manager & Analytics
 
-#### Technical Skills: Python, R, SQL, SPSS, Power BI, Pytorch, NLP & CV 
+#### Technical Skills: Python, R, SQL, SPSS, Power BI, Pytorch, ML, NLP & CV 
 
 ## Education							       		        		
 - B.Tech., Computer Science | The Federal University of Technology, Akure, Ondo State, Nigeria (_October 2018_)
@@ -13,8 +13,9 @@
 
 **Data Manager @ Human Heredity and Health in Africa (_June 2019 - Present_)**
 - Managed and analyzed healthcare data to support clinical and operational decision-making, improving patient care outcomes by 55%.
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+- Utilized SQL, Excel, and Python to analyze patient data, identifying trends in clinical research recruitments, retention rates, treatment rates and follow-up rates.
+- Provided data-driven recommendations to Consultants and Research Staffs for improving patient services, leading to a 35% reduction in loss to follow-up.
+  
 ## Research Experience
 **Data Lead for Community Screening @ Ikeja Local Government Area, Lagos, Nigeria (_March 2025_)**
 **Importance of Community Screening in Prevention and Early Detection of Chronic Kidney Disease (CKD)**
@@ -25,7 +26,6 @@
 
 **First Author**
 **Predicting Psychological Disorder in Parents of Children with Nephrotic Syndrome: A Comparative Study of Six (6) Machine Learning Classifiers**
-- This research project aims to predict the likelihood of psychological disorders in parents of children with Nephrotic Syndrome using machine learning techniques. A comparative study of six classifiers is conducted on a dataset consisting of relevant features and psychological assessments. 
 - Wrote the code implementation for this paper.
 - Wrote the Introduction, Methodology, Discussion, and Conclusion sections of this paper.
 **Supervised by Dr. Oluwafemi Adebayo**
@@ -46,18 +46,28 @@
 
 ## Projects
 ### Predicting Psychological Disorder in Parents of Children with Nephrotic Syndrome: A Comparative Study of Six (6) Machine Learning Classifiers
-[Publication](https://www.ijres.org/v12-i10.html.)
+[Publication](https://www.ijres.org/v12-i10.html)
 
-A comparative study of six classifiers is conducted on a dataset consisting of relevant features and psychological assessments. The performances of the **decision tree classifier, random forest classifier, support vector classifier, cat boost classifier, K-nearest neighbors classifier, and logistic regression** are evaluated using metrics such as accuracy, precision, recall, F1-score, and AUC. The findings have implications for early identification and targeted support, enhancing the well-being of parents and 
+This research project aims to predict the likelihood of psychological disorders in parents of children with Nephrotic Syndrome using machine learning techniques. A comparative study of six classifiers is conducted on a dataset consisting of relevant features and psychological assessments.The findings have implications for early identification and targeted support, enhancing the well-being of parents and 
 children affected by nephrotic syndrome. 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+![Predicting Well-being: Machine Learning for NS families](/assets/img/ns_image.png)
+
+### Importance of Community Screening in Prevention and Early Detection of Chronic Kidney Disease (CKD)
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This study aims to evaluate the effectiveness and importance of community-based screening programs in the early detection of CKD and its risk factors. Specifically, it examines the prevalence of CKD and its risk factors within the Ikeja community
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Community Screening Study](/assets/img/cs_image.png)
+
+### Cassava Disease Classification
+The project involved classifying pictures of cassava leaves into 1 of 4 disease categories (or healthy). The disease categories were: Cassava Mosaic Disease(CMD), Cassava Brown Streak Disease(CBSD), Cassava Bacterial Blight(CBB), and Cassava Green Mite(CGM).
+
+### Object Tracker for Images and Videos
+This project was about detection in time series data. The idea was to track objects in a video, by comparing the detected instances in two consecutive frames within a series of frames that make the video. My approach was to use color coding to track the number of detected objects.
+
+### Ensemble of Machine Learning Algorithms for Optimal Sensor Placement in a Controlled Environment using Particle Swarm Optimization Algorithm
+With the aim of combining these two algorithms to exact their predictive powers and reduce computational costs, this paper focuses on implementing the weighted average method and particle swarm optimization to ensemble these two models in order to predict the optimal sensors in a greenhouse.
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
