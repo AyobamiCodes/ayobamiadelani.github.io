@@ -58,7 +58,7 @@ children affected by nephrotic syndrome.
 
 This study aims to evaluate the effectiveness and importance of community-based screening programs in the early detection of CKD and its risk factors. Specifically, it examines the prevalence of CKD and its risk factors within the Ikeja community
 
-![Community Screening Study](/assets/img/cs_image.png)
+[Community Screening Study](/assets/img/cs_image.png)
 
 ### Cassava Disease Classification
 The project involved classifying pictures of cassava leaves into 1 of 4 disease categories (or healthy). The disease categories were: Cassava Mosaic Disease(CMD), Cassava Brown Streak Disease(CBSD), Cassava Bacterial Blight(CBB), and Cassava Green Mite(CGM).
