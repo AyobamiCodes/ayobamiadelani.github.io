@@ -1,7 +1,7 @@
 # Data Manager & Analytics
 ### Email - ayobamiadelani101@gmail.com 
 ### Contact - +2348103571188
-[CV](https://drive.google.com/file/d/15aBlq7AbV8QiDLtQo2WPqKCUGQIk-Kso/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1UkHGWJ0YM3IDWq5qeG-v9flPsBpZgvIz/view?usp=sharing)
 
 #### Technical Skills: Python, R, SQL, SPSS, Power BI, Pytorch, ML, NLP & CV 
 
@@ -31,7 +31,7 @@
 - Wrote the Introduction, Methodology, Discussion, and Conclusion sections of this paper.
 **Supervised by Dr. Oluwafemi Adebayo**
   
-**Research Assistant (_August 2023 - March 2024 2023_)** | **Burden of periodontitis among women living with HIV infection on antiretroviral therapy in an HIV treatment facility in Lagos, Nigeria**
+**Research Assistant (_August 2023 - March 2024_)** | **Burden of periodontitis among women living with HIV infection on antiretroviral therapy in an HIV treatment facility in Lagos, Nigeria**
 - Collected over 80% of the data used for this research.
 - Performed data cleaning and analysis using SPSS.
 **Supervised by Prof. Kehinde Umeizudike**
