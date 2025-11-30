@@ -1,6 +1,7 @@
 # Data Manager & Analytics
-### Email - ayobamiadelani101@gmail.com Contact- +2348103571188
-[CV]()
+### Email - ayobamiadelani101@gmail.com 
+### Contact - +2348103571188
+[CV](https://drive.google.com/file/d/15aBlq7AbV8QiDLtQo2WPqKCUGQIk-Kso/view?usp=sharing)
 
 #### Technical Skills: Python, R, SQL, SPSS, Power BI, Pytorch, ML, NLP & CV 
 
@@ -45,24 +46,22 @@
 ## Projects
 ### Predicting Psychological Disorder in Parents of Children with Nephrotic Syndrome: A Comparative Study of Six (6) Machine Learning Classifiers
 [Publication](https://www.ijres.org/v12-i10.html)
-
 This research project aims to predict the likelihood of psychological disorders in parents of children with Nephrotic Syndrome using machine learning techniques. A comparative study of six classifiers is conducted on a dataset consisting of relevant features and psychological assessments.The findings have implications for early identification and targeted support, enhancing the well-being of parents and 
 children affected by nephrotic syndrome. 
-
 ![Predicting Well-being: Machine Learning for NS families](/assets/img/ns_image.png)
 
 ### Importance of Community Screening in Prevention and Early Detection of Chronic Kidney Disease (CKD)
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
+[Research Paper](https://drive.google.com/file/d/10Tc89bbTudQJs7d3KKCi4B3wHNsBdCXA/view?usp=sharing)
 This study aims to evaluate the effectiveness and importance of community-based screening programs in the early detection of CKD and its risk factors. Specifically, it examines the prevalence of CKD and its risk factors within the Ikeja community
-
 ![Community Screening Study](/assets/img/cs_image.png)
 
 ### Cassava Disease Classification
 The project involved classifying pictures of cassava leaves into 1 of 4 disease categories (or healthy). The disease categories were: Cassava Mosaic Disease(CMD), Cassava Brown Streak Disease(CBSD), Cassava Bacterial Blight(CBB), and Cassava Green Mite(CGM).
+[Link to Project Report](https://drive.google.com/file/d/1u-PSBDb0FDCCfZA50gjFC-fdi_oEWRTs/view?usp=sharing)
 
 ### Object Tracker for Images and Videos
 This project was about detection in time series data. The idea was to track objects in a video, by comparing the detected instances in two consecutive frames within a series of frames that make the video. My approach was to use color coding to track the number of detected objects.
+[Link to Project Report](https://drive.google.com/file/d/1W8SR6CKTZxCgK5sKkrCeEs9jNXrHQfaW/view?usp=sharing)
 
 ### Ensemble of Machine Learning Algorithms for Optimal Sensor Placement in a Controlled Environment using Particle Swarm Optimization Algorithm
 [Link to Research Paper](https://drive.google.com/file/d/1O_CFMiJJ0iVNfJsNvda-n3Jt8FyCV-2C/view?usp=sharing)
