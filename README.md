@@ -1,4 +1,6 @@
 # Data Manager & Analytics
+### Email - ayobamiadelani101@gmail.com Contact- +2348103571188
+[CV]()
 
 #### Technical Skills: Python, R, SQL, SPSS, Power BI, Pytorch, ML, NLP & CV 
 
@@ -17,28 +19,24 @@
 - Provided data-driven recommendations to Consultants and Research Staffs for improving patient services, leading to a 35% reduction in loss to follow-up.
   
 ## Research Experience
-**Data Lead for Community Screening @ Ikeja Local Government Area, Lagos, Nigeria (_March 2025_)**
-**Importance of Community Screening in Prevention and Early Detection of Chronic Kidney Disease (CKD)**
+**Data Lead for Community Screening @ Ikeja Local Government Area, Lagos, Nigeria (_March 2025_)** | **Importance of Community Screening in Prevention and Early Detection of Chronic Kidney Disease (CKD)**
 - Led a team of 15 data officers that helped with collection of data and other key parameters like vital signs (Blood Pressure, height, and weight) and Random blood sugar result.
 - Cleaned and processed data before using SPSS for statistical analysis.
 - Wrote the major section of the research paper- Introduction, Methodology, Results and Discussions.
 **Supervised by Dr. Sotomiwa Sotubo**
 
-**First Author**
-**Predicting Psychological Disorder in Parents of Children with Nephrotic Syndrome: A Comparative Study of Six (6) Machine Learning Classifiers**
+**First Author** | **Predicting Psychological Disorder in Parents of Children with Nephrotic Syndrome: A Comparative Study of Six (6) Machine Learning Classifiers**
 - Wrote the code implementation for this paper.
 - Wrote the Introduction, Methodology, Discussion, and Conclusion sections of this paper.
 **Supervised by Dr. Oluwafemi Adebayo**
   
-**Research Assistant (_August 2023 - March 2024 2023_)**
-**Burden of periodontitis among women living with HIV infection on antiretroviral therapy in an HIV treatment facility in Lagos, Nigeria**
+**Research Assistant (_August 2023 - March 2024 2023_)** | **Burden of periodontitis among women living with HIV infection on antiretroviral therapy in an HIV treatment facility in Lagos, Nigeria**
 - Collected over 80% of the data used for this research.
 - Performed data cleaning and analysis using SPSS.
 **Supervised by Prof. Kehinde Umeizudike**
 
 
-**Research Intern @ CLIMDES, Michigan State University, USA (_January 2023 - July 2023_)**
-**Ensemble of Machine Learning Algorithms for Optimal Sensor Placement in a Controlled Environment using Particle Swarm Optimization Algorithm**
+**Research Intern @ CLIMDES, Michigan State University, USA (_January 2023 - July 2023_)** | **Ensemble of Machine Learning Algorithms for Optimal Sensor Placement in a Controlled Environment using Particle Swarm Optimization Algorithm**
 - Wrote the code implementation of the research project using python programming, scikit-learn, kmeans++, gradient boosting regressor, weighted average ensemble method, and particle swarm optimization.  
 - Led the team twice based on the rotational leadership system of the internship program.
 - Wrote the abstract, literature review, introduction, methodology, and result sections of the technical paper.
@@ -67,6 +65,8 @@ The project involved classifying pictures of cassava leaves into 1 of 4 disease 
 This project was about detection in time series data. The idea was to track objects in a video, by comparing the detected instances in two consecutive frames within a series of frames that make the video. My approach was to use color coding to track the number of detected objects.
 
 ### Ensemble of Machine Learning Algorithms for Optimal Sensor Placement in a Controlled Environment using Particle Swarm Optimization Algorithm
+[Link to Research Paper](https://drive.google.com/file/d/1O_CFMiJJ0iVNfJsNvda-n3Jt8FyCV-2C/view?usp=sharing)
+
 With the aim of combining these two algorithms to exact their predictive powers and reduce computational costs, this paper focuses on implementing the weighted average method and particle swarm optimization to ensemble these two models in order to predict the optimal sensors in a greenhouse.
 
 
